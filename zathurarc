@@ -1,0 +1,19 @@
+set default-bg "#FFEFD5" 
+set statusbar-bg "#FFFDD0"
+set statusbar-fg "#000000"
+set inputbar-bg "#FFFDD0"
+
+# locate my current line
+set highlight-color "#BDBBD7"
+set highlight-active-color "#808080"
+
+set completion-bg "#F0DC82"
+set completion-fg "#F0DC82"
+
+set recolor-darkcolor "#000000"
+set recolor-lightcolor "#FFEFD5"
+set recolor
+
+# seashell "#FFF5EE"
+# my vim light bg "#FFEFD5"
+# Lavender grey "#BDBBD7"
